@@ -29,7 +29,7 @@ MODVS
 
 I will create a page-per-page translation of the [downloadable version][dl].  I will then translate the sentences with my reasoning.  Hopefully **when** (not if) I err my logic will be documented **and** someone who knows better will be able to submit a pull request or make an amendment.
 
-[dl]: "http://books.google.com/books?id=iVouAAAAYAAJ&lpg=PA133&ots=xT3hGIPkKv&dq=Bruno De Umbris Idearum&pg=PP1#v=onepage&q&f=false"
+[dl]: http://goo.gl/eQAUnh
 
 OPERE
 =====
