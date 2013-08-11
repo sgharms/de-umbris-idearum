@@ -1,0 +1,6 @@
+name: "Translating Bruno's DE VMBRIS IDEARVM"
+description: "Translation of Giodarno Bruno's DE VMBRIS IDEARVM ('On the Shadows of Ideas')"
+paginate: 10
+markdown: rdiscount
+pygments: true
+permalink: pretty
