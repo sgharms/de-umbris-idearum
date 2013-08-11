@@ -1,0 +1,72 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <title>De-umbris-idearum by sgharms</title>
+
+    <link rel="stylesheet" href="stylesheets/styles.css">
+    <link rel="stylesheet" href="stylesheets/pygment_trac.css">
+    <script src="javascripts/scale.fix.js"></script>
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        <h1 class="header">De-umbris-idearum</h1>
+        <p class="header">Translation Giodarno Bruno's &quot;DE VMBRIS IDEARVM&quot; (&quot;On the shadows of ideas&quot;)</p>
+
+        <ul>
+          <li class="download"><a class="buttons" href="https://github.com/sgharms/de-umbris-idearum/zipball/master">Download ZIP</a></li>
+          <li class="download"><a class="buttons" href="https://github.com/sgharms/de-umbris-idearum/tarball/master">Download TAR</a></li>
+          <li><a class="buttons github" href="https://github.com/sgharms/de-umbris-idearum">View On GitHub</a></li>
+        </ul>
+
+        <p class="header">This project is maintained by <a class="header name" href="https://github.com/sgharms">sgharms</a></p>
+
+
+      </header>
+      <section>
+        <h1>
+<a name="de-vumbris-idearvm" class="anchor" href="#de-vumbris-idearvm"><span class="octicon octicon-link"></span></a>DE VUMBRIS IDEARVM</h1>
+
+<p>This project aims to produce an English translation Giodarno Bruno's "DE VMBRIS IDEARVM" ("On the shadows of ideas").</p>
+
+<h1>
+<a name="de-translatore" class="anchor" href="#de-translatore"><span class="octicon octicon-link"></span></a>DE TRANSLATORE</h1>
+
+<ul>
+<li>I took 5 semesters of Latin</li>
+<li>I <em>do not</em> have a degree in it</li>
+<li>I am likely to be extremely slow at this</li>
+<li>I <em>do</em> have some background in philosophy and 16-17th c. philosophy of science</li>
+<li>I greatly admire Bruno and detest the <a href="http://www.historytoday.com/richard-cavendish/giordano-bruno-executed">Catholic Church's execution</a> of him</li>
+<li>I hope to share Bruno's genius with more people</li>
+</ul><h1>
+<a name="caveat-brvni" class="anchor" href="#caveat-brvni"><span class="octicon octicon-link"></span></a>CAVEAT BRVNI</h1>
+
+<p>Bruno was a very erudite human.  He memorized (thanks to the techniques he enumerates here) <em>most</em> of the Classical literary canon.  He can drop <em>literally</em> thousands of references.  Know the story of <a href="http://en.wikipedia.org/wiki/Deucalion">Deucalion</a>?  Who fathered the child of <a href="http://en.wikipedia.org/wiki/Semele">Semele</a>?  He was <em>also</em> a religious scholar so was up on all the religious references and themes of the time.  He was <em>also</em> a neo-Platonist mystic who inherited the knowledge of symbols, rites, and eccentricities of the Pythagorean and neo-Platonic movements.  It's near impossible to know what symbols or phrases had an <em>extra</em> layer of meaning not available to me.  Consider reading <a href="http://en.wikipedia.org/wiki/Paradise_Lost">Paradise Lost</a> by the similarly-erudite Milton.  Those books are <em>packed</em> with footnotes to help the reader get all of Milton's references.  Now put <em>that</em> text in Latin and you're on the par of this project.</p>
+
+<h1>
+<a name="modvs" class="anchor" href="#modvs"><span class="octicon octicon-link"></span></a>MODVS</h1>
+
+<p>I will create a page-per-page translation of the <a href="http://goo.gl/eQAUnh">downloadable version</a>.  I will then translate the sentences with my reasoning.  Hopefully <strong>when</strong> (not if) I err my logic will be documented <strong>and</strong> someone who knows better will be able to submit a pull request or make an amendment.</p>
+
+<h1>
+<a name="opere" class="anchor" href="#opere"><span class="octicon octicon-link"></span></a>OPERE</h1>
+
+<p>This is <em>not</em> a research-grade ready translation.  It's probably not fit to cite or refer to reliably.</p>
+
+<p>SALVETE</p>
+      </section>
+      <footer>
+        <p><small>Hosted on <a href="https://pages.github.com">GitHub Pages</a> using the Dinky theme</small></p>
+      </footer>
+    </div>
+    <!--[if !IE]><script>fixScale(document);</script><![endif]-->
+		
+  </body>
+</html>

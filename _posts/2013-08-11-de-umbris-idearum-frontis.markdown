@@ -3,19 +3,23 @@ title: "Frontis Matter"
 layout: default
 ---
 
-# Giodarno Bruno of Nola
+# Translation
 
-# On the Shadows of Ideas
+## Giodarno Bruno of Nola
 
-## With applications for the art of querying, judging, arranging, and thinking
+### On the Shadows of Ideas
+
+#### With applications for the art of querying, judging, arranging, and thinking
 
 ### A Declaration
 
 We are in deep shadow, let not you, foolish men, disturb us nor you the
-*learned*, for such a weighty work will seek out learned men
+*learned*, for such a weighty work will seek out learned men.
 
 ----
+----
 
+# Dissection
 
 * Jordanus: nom. sg
 * Brunus:  nom. sg
