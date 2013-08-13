@@ -1,9 +1,6 @@
 name: "Translating Bruno's DE VMBRIS IDEARVM"
 baseurl: '/de-umbris-idearum'
 description: "Translation of Giodarno Bruno's DE VMBRIS IDEARVM ('On the Shadows of Ideas')"
-exclude:
-  - Gemfile
-  - Gemfile.lock
 paginate: 10
 markdown: rdiscount
 pygments: true
