@@ -13,8 +13,8 @@ layout: default
 
 ### A Declaration
 
-We are in deep shadow, let not you, foolish men, disturb us nor you the
-*learned*, for such a weighty work will seek out learned men.
+We are in deep shadow, let not you, foolish men, disturb us nor *you* the
+learned, for such a weighty work will seek out learned men.
 
 ----
 ----
