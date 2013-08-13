@@ -29,7 +29,7 @@ end
 
 desc "Start the server"
 task :server do
-  `jekyll serve -w --base '/' -P 3223`
+  `jekyll serve -w --baseurl '/' -P 3223`
 end
 
 
