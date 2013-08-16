@@ -63,23 +63,25 @@ and the most essential from the greatest? "
   * innitur: innitī: to support: "is a support to him with a
     remarkableness of its creation"
 
-Let no one therefore doubt
-why (IQ)
-  this work of yours
-    which (first) bends (itself) around the highest subject matter and 
-    which supports one with its remarkableness of invention and
-    through which it is communicated by weight of demonstration
-      THAT it is to be numbered amongst the greatest things
-  bears back to you;
-    (you who are the)
-    great spectacle of the people,
-    and who is most outstanding with a character in its virtue
-    and who is most celebrated with the sublimnity of the height of his genius
-    and who is therefore
-      most keen and
-      magnanimus and
-      learned of all things
-  heartfelt respect in yielding measure.
+      Let no one therefore doubt
+      why (IQ)
+        this work of yours
+          which (first) bends (itself) around the highest subject matter and 
+          which supports one with its remarkableness of invention and
+          through which it is communicated by weight of demonstration
+            THAT it is to be numbered amongst the greatest things
+        bears back to you;
+          (you who are the)
+          great spectacle of the people,
+          and who is most outstanding with a character in its virtue
+          and who is most celebrated with the sublimnity of the height of his genius
+          and who is therefore
+            most keen and
+            magnanimus and
+            learned of all things
+        heartfelt respect in yielding measure.
+
+_What a sentence!_
 
 * 3
   * favor, favoris, m
@@ -87,11 +89,11 @@ why (IQ)
   * eminenter:  "eminently"
   * generosus/a/um:  well-bred, nobld
 
-This very work is yours 
-  to accept
-    from a favored soul,
-  to regard with favor, and
-  to examine with mature judgment,
-so that you will be seen as eminently well-bred, powerful, and wise.
+    This very work is yours 
+      to accept
+        from a favored soul,
+      to regard with favor, and
+      to examine with mature judgment,
+    so that you will be seen as eminently well-bred, powerful, and wise.
 
 BE WELL
