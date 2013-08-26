@@ -60,8 +60,10 @@ and the most essential from the greatest? "
   * versatur: versō; circumscribes: "it [opus] is turned about"
   * nobilitate subjecti:  with (versatur takes abl.) with the highest of
     subject
-  * innitur: innitī: to support: "is a support to him with a
+  * discrīmen, discriminis, n: distinction, difference, battle
+  * innitur: innitī, deponent: to support: "is a support to him with a
     remarkableness of its creation"
+  * largior, largīrī, largītus sum (deponent)
 
       Let no one therefore doubt
       why (IQ)
@@ -86,7 +88,7 @@ _What a sentence!_
 * 3
   * favor, favoris, m
   * tueor, tuerī: to regard, behold
-  * eminenter:  "eminently"
+  * eminenter:  "eminently", remember 'ter' is adverb, not comparative.
   * generosus/a/um:  well-bred, nobld
 
     This very work is yours 
