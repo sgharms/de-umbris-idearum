@@ -14,7 +14,7 @@ layout: default
 Who does not know, most sacred Majesty, that first principles are
 dervied from the first things, the more essential principles from
 greater things, and the most essential principle from the greatest
-thing?  Let no one, therefore, wonder why this work of yours -- which
+thing?  Let no one, therefore, wonder that this work of yours -- which
 bends itself around the highest of subject, which gives support to one
 with the remarkableness of its invention, and through which it is
 communicated that it is to be numbered among the greatest things --
