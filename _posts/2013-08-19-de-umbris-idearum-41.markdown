@@ -10,8 +10,8 @@ Merlin the Artist
 It was he who painted roosters and hens  
 He who, since he was not altogether unfoolish,  
 and by whom, verily, foolish men were not able to be guided to more serious topics  
-who spake thus, the artist, to the fool that:  
-He sent away his servants and his hangers-on;  
+who spake thus, the artist, to the fool that  
+He had sent away his servants and his hangers-on;  
 through these deeds he wished that his charges be set far away.  
 
 When you will no longer be ignorant of this, have fear  
